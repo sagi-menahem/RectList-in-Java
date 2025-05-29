@@ -2,6 +2,8 @@
 
 This repository contains the Java implementation of the `RectNode` and `RectList` classes for a linked list of rectangles. These classes are designed to represent rectangles and manage a list of rectangles efficiently.
 
+The full assignment (in Hebrew) is in the [Task 5.pdf](Task%205.pdf) file.
+
 ## Table of Contents
 
 * [RectNode Class](#rectnode-class)
@@ -52,4 +54,4 @@ The `RectList` class represents a linked list of rectangles. It maintains a list
 
 ## Author
 
-Sagi Menahem
+Sagi Menahem.
